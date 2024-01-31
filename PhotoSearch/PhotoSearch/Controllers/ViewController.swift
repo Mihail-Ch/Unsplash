@@ -7,20 +7,6 @@
 
 import UIKit
 
-//struct APIResponse: Codable {
-//    let total: Int
-//    let total_pages: Int
-//    let results: [Results]
-//}
-//
-//struct Results: Codable {
-//    let id: String
-//    let urls: URLS
-//}
-//
-//struct URLS: Codable {
-//    let regular: String
-//}
 
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UISearchBarDelegate, UICollectionViewDelegateFlowLayout {
     
